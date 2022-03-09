@@ -1,5 +1,12 @@
 public static void Testing{
-	public static void TC1{
+	public static void TC1(){
+		System.out.println("print-1)
+
+
+	}
+	
+	public static void TC2(){
+		System.out.println("print-1)
 
 
 	}
